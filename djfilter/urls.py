@@ -7,6 +7,7 @@ from core.views import BootstrapFilterView, ReactFilterView, ReactInfiniteView
 from django.conf.urls import url
 from core import views
 from django.urls import path
+from django.urls import reverse
 # from socialcustom.views import SomeTableView
 
 
